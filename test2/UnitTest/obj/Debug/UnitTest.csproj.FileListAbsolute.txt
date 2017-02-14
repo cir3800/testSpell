@@ -1,0 +1,7 @@
+C:\Users\MacbookAir\Documents\Visual Studio 2013\Projects\test2\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\MacbookAir\Documents\Visual Studio 2013\Projects\test2\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\MacbookAir\Documents\Visual Studio 2013\Projects\test2\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\MacbookAir\Documents\Visual Studio 2013\Projects\test2\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\MacbookAir\Documents\Visual Studio 2013\Projects\test2\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\MacbookAir\Documents\Visual Studio 2013\Projects\test2\UnitTest\bin\Debug\librarySpell.dll
+C:\Users\MacbookAir\Documents\Visual Studio 2013\Projects\test2\UnitTest\bin\Debug\librarySpell.pdb

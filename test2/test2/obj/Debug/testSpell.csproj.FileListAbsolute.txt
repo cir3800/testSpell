@@ -1,0 +1,8 @@
+C:\Users\MacbookAir\Documents\Visual Studio 2013\Projects\test2\test2\obj\Debug\test2.exe
+C:\Users\MacbookAir\Documents\Visual Studio 2013\Projects\test2\test2\bin\Debug\test2.exe.config
+C:\Users\MacbookAir\Documents\Visual Studio 2013\Projects\test2\test2\bin\Debug\test2.exe
+C:\Users\MacbookAir\Documents\Visual Studio 2013\Projects\test2\test2\bin\Debug\test2.pdb
+C:\Users\MacbookAir\Documents\Visual Studio 2013\Projects\test2\test2\obj\Debug\test2.pdb
+C:\Users\MacbookAir\Documents\Visual Studio 2013\Projects\test2\test2\obj\Debug\testSpell.csprojResolveAssemblyReference.cache
+C:\Users\MacbookAir\Documents\Visual Studio 2013\Projects\test2\test2\bin\Debug\librarySpell.dll
+C:\Users\MacbookAir\Documents\Visual Studio 2013\Projects\test2\test2\bin\Debug\librarySpell.pdb

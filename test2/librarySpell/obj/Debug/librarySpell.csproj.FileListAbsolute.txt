@@ -1,0 +1,4 @@
+C:\Users\MacbookAir\Documents\Visual Studio 2013\Projects\test2\librarySpell\bin\Debug\librarySpell.dll
+C:\Users\MacbookAir\Documents\Visual Studio 2013\Projects\test2\librarySpell\bin\Debug\librarySpell.pdb
+C:\Users\MacbookAir\Documents\Visual Studio 2013\Projects\test2\librarySpell\obj\Debug\librarySpell.dll
+C:\Users\MacbookAir\Documents\Visual Studio 2013\Projects\test2\librarySpell\obj\Debug\librarySpell.pdb

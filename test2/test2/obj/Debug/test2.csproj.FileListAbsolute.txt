@@ -1,0 +1,6 @@
+c:\users\macbookair\documents\visual studio 2013\Projects\test2\test2\bin\Debug\test2.exe.config
+c:\users\macbookair\documents\visual studio 2013\Projects\test2\test2\bin\Debug\test2.exe
+c:\users\macbookair\documents\visual studio 2013\Projects\test2\test2\bin\Debug\test2.pdb
+c:\users\macbookair\documents\visual studio 2013\Projects\test2\test2\obj\Debug\test2.csprojResolveAssemblyReference.cache
+c:\users\macbookair\documents\visual studio 2013\Projects\test2\test2\obj\Debug\test2.exe
+c:\users\macbookair\documents\visual studio 2013\Projects\test2\test2\obj\Debug\test2.pdb
